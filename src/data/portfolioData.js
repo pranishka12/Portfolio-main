@@ -285,7 +285,7 @@ export const projects = [
     
     number:"01",
     
-    Badge:"⭐ Featured Project",
+    badge:"⭐ Featured Project",
     
     title:"AI-powered ATS Resume Screening & Analysis Platform",
     
@@ -303,7 +303,7 @@ export const projects = [
     ],
     
     links:{
-    github:"#"
+    github:"https://github.com/pranishka12/AI-Resume-Analyzer.git"
     },
     
     isFlagship:false
@@ -331,63 +331,63 @@ export const projects = [
       ],
       
       links:{
-      github:"#"
+      github:"https://github.com/pranishka12/Smart-Mirror-Glow-Guide.git"
       },
       
       isFlagship:false
       
   },
   {
-    id:"Portfolio Website",
+    id:"Solar Power Prediction",
     
     number:"03",
     
-    badge:"⭐ Featured",
+    badge:"⭐ Featured Project",
     
-    title:"AI Engineer Portfolio Website",
+    title:"Solar Power Prediction",
     
     description:
-    "Designed and developed a modern AI Engineer portfolio website to showcase projects, technical skills, certifications, internships, and achievements. Built with a responsive design, smooth animations, downloadable resume, and project showcase for professional job applications.",
+    "Developed a Machine Learning model to predict solar power generation using historical weather and environmental data. The project includes data preprocessing, feature engineering, model training, and performance evaluation to support renewable energy forecasting.",
     
     techTags:[
-    "React",
-    "Vite",
-    "Tailwind CSS",
-    "JavaScript",
-    "Vercel",
-    "AOS"
+    "Python",
+    "Pandas",
+    "Numpy",
+    "Scikit-learn",
+    "Matplotlib",
+    "Machine Learning"
     ],
     
     links:{
-    github:"#"
+    github:"https://github.com/pranishka12/Solar-Power-Prediction.git"
     },
     
     isFlagship:false
     
   },
   {
-    id:"terra",
+    id:"CNN Image Classification",
     
     number:"04",
     
-    badge:"🏆 Award Winning",
+    badge:"Featured Project",
     
-    title:"TERRA – AI Agriculture Assistant",
+    title:"CNN Image Classification",
     
     description:
-    "An AI-powered agriculture assistant designed to support farmers with crop health analysis, pest detection and market price recommendations using Machine Learning and NLP.",
+    "Built a Convolutional Neural Network (CNN) model for image classification using TensorFlow and Keras. The project covers image preprocessing, deep learning model training, evaluation, and prediction with high classification accuracy.",
     
     techTags:[
     "Python",
-    "Machine Learning",
-    "NLP",
-    "Pandas",
-    "Scikit-learn"
+    "Deep Learning",
+    "Keras",
+    "OpenCV",
+    "Numpy",
+    "TensorFlow"
     ],
     
     links:{
-    github:"#",
-    demo:"#"
+    github:"https://github.com/pranishka12/Image-Classification-Using-CNN.git"
     },
     
     isFlagship:true
@@ -400,31 +400,38 @@ export const projects = [
 export const certificates = {
   featured: [
     {
-      name:"AI & Machine Learning Internship",
-      issuer:"Svasti Private Solutions",
-      icon:"🤖"
-      },
-      
-      {
-      name:"Machine Learning Internship",
-      issuer:"Suguna Infotech",
-      icon:"💻"
-      },
-      
-      {
-      name:"IIT Technical Workshop",
-      issuer:"IIT",
-      icon:"🎓"
-      },
-      
-      {
-      name:"TERRA AI Competition Winner",
-      issuer:"College Technical Fest",
-      icon:"🏆"
-      },
+      name: "AI & Machine Learning Internship",
+      issuer: "Svasti Private Solutions",
+      icon: "🤖",
+    },
+    {
+      name: "Machine Learning Internship",
+      issuer: "Suguna Innovation Institute",
+      icon: "📊",
+    },
+    {
+      name: "IDE Bootcamp",
+      issuer: "NITK Surathkal (AICTE & Ministry of Education)",
+      icon: "💡",
+    },
+    {
+      name: "Artificial Intelligence with Deep Learning",
+      issuer: "IIT Madras",
+      icon: "🎓",
+    },
+    {
+      name: "Software Engineering",
+      issuer: "NPTEL - IIT Kharagpur",
+      icon: "💻",
+    },
+    {
+      name: "1st Prize - TERRA AI Agriculture Assistant",
+  issuer: "Inter college fest 2024, cbe",
+  icon: "🌱",
+    },
   ],
-  viewAllUrl:
-    "https://drive.google.com/file/d/1ObdGWtVSx8SsfR4AcbCySSd9LFXcAs9f/view?usp=sharing",
+
+  viewAllUrl: "https://drive.google.com/drive/folders/1VkPaCiBV37bPf4s_8mJg6mYeql_Km7XL?usp=drive_link",
 };
 export const contentCreation = {
   badge: "AI Expertise",
