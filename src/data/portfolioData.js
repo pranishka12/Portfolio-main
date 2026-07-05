@@ -17,7 +17,7 @@ export const personalInfo = {
   },
   summary:
     "AI & Data Science Engineer passionate about Machine Learning, Deep Learning, Computer Vision and Generative AI. I build intelligent applications using Python, TensorFlow, PyTorch, Scikit-learn, Hugging Face, LangChain and modern AI frameworks. My focus is designing production-ready AI solutions, LLMs, NLP systems, Computer Vision applications, and intelligent automation.",
-  resumeUrl: "/Md_Yusuf_Resume_2026.pdf",
+  resumeUrl: "/Pranishka_S_Resume.pdf"
 };
 
 export const socialLinks = {
@@ -35,7 +35,7 @@ export const heroContent = {
     text: "Contact Me",
     href: "mailto:pranishka1212@gmail.com?subject=Hiring Inquiry – Portfolio&body=Hello Prani,%0D%0A%0D%0AI came across your portfolio and would like to discuss an opportunity with you.%0D%0A%0D%0ALooking forward to hearing from you.%0D%0ABest Regards,",
   },
-  ctaResume: { text: "Download Resume", href: "/Md_Yusuf_Resume_2026.pdf" },
+  ctaResume: { text: "Download Resume", href: "/Pranishka_S_Resume.pdf" },
 };
 
 export const aboutContent = {
