@@ -103,39 +103,39 @@ export const technicalSkills = {
     {
       title: "Programming Languages",
       skills: [
-        { name: "Python", level: 90 },
-        { name: "SQL", level: 70 },
-        { name: "Git", level: 75 }
+        { name: "Python", level: 75},
+        { name: "SQL", level: 50 },
+        { name: "Git", level: 70 }
       ]
     },
     {
       title: "Machine Learning",
       skills: [
-        { name: "Scikit-learn", level: 75 },
+        { name: "Scikit-learn", level: 60 },
         { name: "Regression", level: 85 },
         { name: "Classification", level: 80 },
-        { name: "Clustering", level: 82 },
-        { name: "Feature Engineering", level: 70 }
+        { name: "Clustering", level: 65 },
+        { name: "Feature Engineering", level: 50 }
       ]
     },
     {
       title: "Deep Learning",
       skills: [
         { name: "TensorFlow", level: 75 },
-        { name: "PyTorch", level: 70 },
+        { name: "PyTorch", level: 62 },
         { name: "CNN", level: 80 },
-        { name: "RNN", level: 75 },
-        { name: "Transformers", level: 65},
+        { name: "RNN", level: 60 },
+        { name: "Transformers", level: 50},
         
       ]
     },
     {
       title: "Generative AI",
       skills: [
-        { name: "LangChain", level: 80 },
-        { name: "Hugging Face", level: 70 },
-        { name: "Prompt Engineering", level: 75 },
-        { name: "LLMs", level: 80 }
+        { name: "LangChain", level: 60 },
+        { name: "Hugging Face", level: 65 },
+        { name: "Prompt Engineering", level: 50 },
+        { name: "LLMs", level: 70 }
       ]
     },
     {
@@ -143,7 +143,7 @@ export const technicalSkills = {
       skills: [
         { name: "OpenCV", level: 85 },
         { name: "YOLO", level: 90 },
-        { name: "Image Processing", level: 80 }
+        { name: "Image Processing", level: 70 }
       ]
     },
     {
