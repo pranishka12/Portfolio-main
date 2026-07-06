@@ -389,11 +389,11 @@ export const projects = [
 
 export const certificates = {
   featured: [
-    title: "International Conference on Artificial Intelligence & Data Science",
-    date: "March 2026",
-    description:
-      "Participated in the International Conference on Artificial Intelligence & Data Science and explored emerging trends in AI, Machine Learning, Deep Learning, and Generative AI.",
-  },
+    {
+      name: "Smart mirror - Glow Guide",
+      issuer: "Journal of International Journal of Engineering Research in Computer Science and Engineering.",
+      icon:"https://ijercse.com/Smart-Mirror-Glow-Guide.php ",
+    },
     {
       name: "AI & Machine Learning Internship",
       issuer: "Svasti Private Solutions",
