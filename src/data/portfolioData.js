@@ -392,7 +392,7 @@ export const certificates = {
     {
       name: "Smart mirror - Glow Guide",
       issuer: "Journal of International Journal of Engineering Research in Computer Science and Engineering.",
-      icon:"https://ijercse.com/Smart-Mirror-Glow-Guide.php ",
+      icon:"📄",
     },
     {
       name: "AI & Machine Learning Internship",
