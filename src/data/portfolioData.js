@@ -103,7 +103,7 @@ export const technicalSkills = {
     {
       title: "Programming Languages",
       skills: [
-        { name: "Python", level: 75},
+        { name: "Python", level: 70},
         { name: "SQL", level: 50 },
         { name: "Git", level: 70 }
       ]
@@ -121,8 +121,8 @@ export const technicalSkills = {
       title: "Computer Vision",
       skills: [
         { name: "OpenCV", level: 85 },
-        { name: "YOLO", level: 90 },
-        { name: "Image Processing", level: 70 }
+        { name: "YOLO", level: 75 },
+        { name: "Image Processing", level: 65 }
       ]
     },
     {
@@ -136,7 +136,7 @@ export const technicalSkills = {
     {
       title: "Cloud",
       skills: [
-        { name: "AWS/Azure(Basics)", level: 85 },
+        { name: "AWS/Azure(Basics)", level: 55 },
       ]
     },
   ]
