@@ -389,6 +389,11 @@ export const projects = [
 
 export const certificates = {
   featured: [
+    title: "International Conference on Artificial Intelligence & Data Science",
+    date: "March 2026",
+    description:
+      "Participated in the International Conference on Artificial Intelligence & Data Science and explored emerging trends in AI, Machine Learning, Deep Learning, and Generative AI.",
+  },
     {
       name: "AI & Machine Learning Internship",
       issuer: "Svasti Private Solutions",
