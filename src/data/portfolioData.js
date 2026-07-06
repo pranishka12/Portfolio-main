@@ -193,7 +193,7 @@ export const internshipsList = [
   {
     organization: "Svasti Private Solutions, Madurai",
     role: "AI & Machine Learning Intern",
-    duration: "Oct 2024 – Nov 2025",
+    duration: "JAN 2026 – May 2026",
     skills: [
       "Machine Learning",
       "Computer Vision",
@@ -296,7 +296,7 @@ export const projects = [
     github:"https://github.com/pranishka12/AI-Resume-Analyzer.git"
     },
     
-    isFlagship:false
+    isFlagship:true
     
   },
   
@@ -324,7 +324,7 @@ export const projects = [
       github:"https://github.com/pranishka12/Smart-Mirror-Glow-Guide.git"
       },
       
-      isFlagship:false
+      isFlagship:true
       
   },
   {
@@ -352,7 +352,7 @@ export const projects = [
     github:"https://github.com/pranishka12/Solar-Power-Prediction.git"
     },
     
-    isFlagship:false
+    isFlagship:true
     
   },
   {
