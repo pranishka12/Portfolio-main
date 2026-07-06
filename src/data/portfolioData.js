@@ -104,68 +104,58 @@ export const technicalSkills = {
       title: "Programming Languages",
       skills: [
         { name: "Python", level: 90 },
-        { name: "SQL", level: 85 },
-        { name: "Git", level: 75 },
-        { name: "Java", level: 55 }
+        { name: "SQL", level: 70 },
+        { name: "Git", level: 75 }
       ]
     },
     {
       title: "Machine Learning",
       skills: [
-        { name: "Scikit-learn", level: 90 },
-        { name: "Regression", level: 95 },
-        { name: "Classification", level: 90 },
-        { name: "Clustering", level: 92 },
-        { name: "Feature Engineering", level: 85 }
+        { name: "Scikit-learn", level: 75 },
+        { name: "Regression", level: 85 },
+        { name: "Classification", level: 80 },
+        { name: "Clustering", level: 82 },
+        { name: "Feature Engineering", level: 70 }
       ]
     },
     {
       title: "Deep Learning",
       skills: [
-        { name: "TensorFlow", level: 88 },
-        { name: "PyTorch", level: 75 },
+        { name: "TensorFlow", level: 75 },
+        { name: "PyTorch", level: 70 },
         { name: "CNN", level: 80 },
         { name: "RNN", level: 75 },
-        { name: "Transformers", level: 70 },
+        { name: "Transformers", level: 65},
         
       ]
     },
     {
       title: "Generative AI",
       skills: [
-        { name: "LangChain", level: 88 },
-        { name: "Hugging Face", level: 85 },
-        { name: "Prompt Engineering", level: 80 },
-        { name: "LLMs", level: 80 },
-        { name: "MCP", level: 80 }
+        { name: "LangChain", level: 80 },
+        { name: "Hugging Face", level: 70 },
+        { name: "Prompt Engineering", level: 75 },
+        { name: "LLMs", level: 80 }
       ]
     },
     {
       title: "Computer Vision",
       skills: [
-        { name: "OpenCV", level: 90 },
-        { name: "YOLO", level: 95 },
-        { name: "Image Processing", level: 88 }
+        { name: "OpenCV", level: 85 },
+        { name: "YOLO", level: 90 },
+        { name: "Image Processing", level: 80 }
       ]
     },
     {
       title: "Data Science",
       skills: [
-        { name: "Pandas", level: 88 },
-        { name: "NumPy", level: 85 },
-        { name: "Matplotlib", level: 86 }
-      ]
-    },
-    {
-      title: "Cloud",
-      skills: [
-        { name: "AWS", level: 65 },
-        { name: "Azure", level: 75 }
+        { name: "Pandas", level: 85 },
+        { name: "NumPy", level: 80},
+        { name: "Matplotlib", level: 90 }
       ]
     },
   ]
 };
-
 // Brand New Leadership Data
 export const leadershipList = [
   {
