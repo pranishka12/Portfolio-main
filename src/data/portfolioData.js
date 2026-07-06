@@ -467,7 +467,7 @@ export const contentCreation = {
 };
 
 export const education = {
-  degree:"B.E. Artificial Intelligence & Data Science",
+  degree:"B.Tech. Artificial Intelligence & Data Science",
   institution:"Velalar College of Engineering and Technology",
   cgpa:"8.52",
   graduation:"2026",
