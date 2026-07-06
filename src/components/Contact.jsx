@@ -37,11 +37,11 @@ const Contact = () => {
     // Check if EmailJS is configured (checking both placeholder values and falsy states)
     const isConfigured = 
       emailjsConfig.serviceId && 
-      emailjsConfig.serviceId !== 'YOUR_EMAILJS_SERVICE_ID' &&
+      emailjsConfig.serviceId !== 'service_zhr447d' &&
       emailjsConfig.templateId && 
-      emailjsConfig.templateId !== 'YOUR_EMAILJS_TEMPLATE_ID' &&
+      emailjsConfig.templateId !== 'template_agpv52s' &&
       emailjsConfig.publicKey && 
-      emailjsConfig.publicKey !== 'YOUR_EMAILJS_PUBLIC_KEY';
+      emailjsConfig.publicKey !== 'vdtnbV6Gs2zzT6qwm';
 
     if (!isConfigured) {
       // EmailJS not configured — fallback to prefilled mailto
