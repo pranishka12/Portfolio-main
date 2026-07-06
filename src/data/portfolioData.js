@@ -112,17 +112,17 @@ export const technicalSkills = {
       title: "Machine Learning",
       skills: [
         { name: "Scikit-learn", level: 60 },
-        { name: "Regression", level: 85 },
-        { name: "Classification", level: 80 },
+        { name: "Regression", level: 65 },
+        { name: "Classification", level: 50 },
         { name: "Clustering", level: 65 },
-        { name: "Feature Engineering", level: 50 }
+        { name: "Feature Engineering", level: 45 }
       ]
     },
     {
       title: "Deep Learning",
       skills: [
-        { name: "TensorFlow", level: 75 },
-        { name: "PyTorch", level: 62 },
+        { name: "TensorFlow", level: 70 },
+        { name: "PyTorch", level: 55 },
         { name: "CNN", level: 80 },
         { name: "RNN", level: 60 },
         { name: "Transformers", level: 50},
@@ -135,7 +135,7 @@ export const technicalSkills = {
         { name: "LangChain", level: 60 },
         { name: "Hugging Face", level: 65 },
         { name: "Prompt Engineering", level: 50 },
-        { name: "LLMs", level: 70 }
+        { name: "LLMs", level: 75 }
       ]
     },
     {
@@ -150,8 +150,8 @@ export const technicalSkills = {
       title: "Data Science",
       skills: [
         { name: "Pandas", level: 85 },
-        { name: "NumPy", level: 80},
-        { name: "Matplotlib", level: 90 }
+        { name: "NumPy", level: 75},
+        { name: "Matplotlib", level: 85 }
       ]
     },
   ]
