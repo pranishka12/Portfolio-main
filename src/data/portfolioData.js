@@ -41,16 +41,7 @@ export const heroContent = {
 export const aboutContent = {
   heading: "About Me",
   bio: `Hi, I'm <span class="text-black text-xl font-black mx-1 tracking-wide uppercase">Pranishka Sivakumar</span>, I'm Pranishka Sivakumar, a Data Analyst and AI & Data Science graduate passionate about transforming data into actionable business insights. I enjoy working with SQL, Excel, Python and Power BI to analyze datasets, identify trends and create interactive dashboards that support data-driven decision making. I am continuously improving my analytical, visualization and business intelligence skills through real-world projects and data-driven problem solving.`,
-  techStack: [
-  "📊 SQL",
-  "📈 Power BI",
-  "📋 Excel",
-  "🐍 Python",
-  "🐼 Pandas",
-  "🔢 NumPy",
-  "📉 Statistics",
-  "📊 Data Visualization"
-],
+  techStack: ["📊 SQL","📈 Power BI","📋 Excel","🐍 Python"],
 };
 
 export const skillsContent = {
