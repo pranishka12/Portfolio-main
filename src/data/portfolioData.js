@@ -40,9 +40,7 @@ export const heroContent = {
 
 export const aboutContent = {
   heading: "About Me",
-  bio: `Hi, I'm <span class="text-black text-xl font-black mx-1 tracking-wide uppercase">Pranishka Sivakumar</span>, AI & Data Science Engineer with a strong interest in building intelligent systems using Machine Learning, Deep Learning and Generative AI.
-
-I enjoy solving real-world problems through Computer Vision, NLP, Large Language Models and AI-powered applications while continuously learning modern AI technologies.`,
+  bio: `Hi, I'm <span class="text-black text-xl font-black mx-1 tracking-wide uppercase">Pranishka Sivakumar</span>, I'm Pranishka Sivakumar, a Data Analyst and AI & Data Science graduate passionate about transforming data into actionable business insights. I enjoy working with SQL, Excel, Python and Power BI to analyze datasets, identify trends and create interactive dashboards that support data-driven decision making. I am continuously improving my analytical, visualization and business intelligence skills through real-world projects and data-driven problem solving.`,
   techStack: ["SQL", "Power BI", "Excel", "Python", "Pandas", "NumPy", "Statistics", "Data Visualization"],
 };
 
@@ -59,7 +57,7 @@ export const skillsContent = {
       
       title:"Understand",
       
-      text:"Study the business problem, collect data and define the AI solution."
+      text:"Understand business objectives and KPIs."
       
       },
       
@@ -69,7 +67,7 @@ export const skillsContent = {
       
       title:"Build",
       
-      text:"Develop Machine Learning and Deep Learning models using modern frameworks."
+      text:"Clean, transform and validate data."
       
       },
       
@@ -79,7 +77,7 @@ export const skillsContent = {
       
       title:"Evaluate",
       
-      text:"Improve model performance using feature engineering and evaluation metrics."
+      text:"Identify trends, patterns and insights."
       
       },
       
@@ -89,7 +87,7 @@ export const skillsContent = {
       
       title:"Deploy",
       
-      text:"Deploy AI applications with scalable and production-ready architecture."
+      text:"Build dashboards and reports for decision making."
       
       }
       
