@@ -163,7 +163,7 @@ export const leadershipList = [
 export const internshipsList = [
   {
     organization: "Svasti Private Solutions, Madurai",
-    role: "AI & Machine Learning Intern"",
+    role: "AI & Machine Learning Intern",
     duration: "JAN 2026 – May 2026",
     skills: [
       "Machine Learning",
@@ -445,7 +445,8 @@ categories: [
     stats: "Pandas • Scikit-learn",
     icon: "🔍",
   },
-],
+  ]
+};
 
 export const education = {
   degree:"B.Tech. Artificial Intelligence & Data Science",
