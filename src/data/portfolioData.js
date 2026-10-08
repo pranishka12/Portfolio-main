@@ -8,7 +8,7 @@ export const personalInfo = {
   name: "Pranishka S",
   firstName: "Pranishka S",
   brandName: "Pranishka S",
-  title: "AI & Machine Learning Engineer | Generative AI Developer",
+  title: "Data Analyst | SQL | Power BI | Python",
   location: "TamilNadu, India",
   phone: "+91 9342475900",
   emails: {
@@ -16,7 +16,7 @@ export const personalInfo = {
     secondary: "pranishka1212@gmail.com",
   },
   summary:
-    "AI & Data Science Engineer passionate about Machine Learning, Deep Learning, Computer Vision and Generative AI. I build intelligent applications using Python, TensorFlow, PyTorch, Scikit-learn, Hugging Face, LangChain and modern AI frameworks. My focus is designing production-ready AI solutions, LLMs, NLP systems, Computer Vision applications, and intelligent automation.",
+    "Hi, I'm Pranishka Sivakumar, a Data Analyst and AI & Data Science graduate passionate about transforming data into actionable business insights. I enjoy working with SQL, Python, Excel and Power BI to analyze datasets, identify trends and build dashboards that support data-driven decision making.",
   resumeUrl: "/Pranishka_S_Resume.pdf"
 };
 
@@ -29,7 +29,7 @@ export const socialLinks = {
 export const heroContent = {
   greeting: "Hi, I'm Pranishka Sivakumar",
   subtitle:
-    "AI & Machine Learning Engineer specializing in Machine Learning, Generative AI, Computer Vision and Large Language Models.",
+    "Data Analyst specializing in SQL, Power BI, Excel, Python and Business Analytics",
   ctaPrimary: { text: "Explore Projects", href: "#projects" },
   ctaSecondary: {
     text: "Contact Me",
@@ -43,7 +43,7 @@ export const aboutContent = {
   bio: `Hi, I'm <span class="text-black text-xl font-black mx-1 tracking-wide uppercase">Pranishka Sivakumar</span>, AI & Data Science Engineer with a strong interest in building intelligent systems using Machine Learning, Deep Learning and Generative AI.
 
 I enjoy solving real-world problems through Computer Vision, NLP, Large Language Models and AI-powered applications while continuously learning modern AI technologies.`,
-  techStack: ["Python", "Machine Learning", "Deep Learning", "Generative AI"],
+  techStack: ["SQL", "Power BI", "Excel", "Python", "Pandas", "NumPy", "Statistics", "Data Visualization"],
 };
 
 export const skillsContent = {
@@ -101,44 +101,30 @@ export const skillsContent = {
 export const technicalSkills = {
   categories: [
     {
-      title: "Programming Languages",
-      skills: [
-        { name: "Python", level: 70},
-        { name: "SQL", level: 50 },
-        { name: "Git", level: 70 }
-      ]
-    },
-    {
-      title: "Machine Learning",
-      skills: [
-        { name: "Scikit-learn", level: 50 },
-        { name: "Regression", level: 65 },
-        { name: "Classification", level: 50 }
-      ]
-    },
-    
-    {
-      title: "Computer Vision",
-      skills: [
-        { name: "OpenCV", level: 85 },
-        { name: "YOLO", level: 75 },
-        { name: "Image Processing", level: 65 }
-      ]
-    },
-    {
-      title: "Data Science",
-      skills: [
-        { name: "Pandas", level: 85 },
-        { name: "NumPy", level: 75},
-        { name: "Matplotlib", level: 85 }
-      ]
-    },
-    {
-      title: "Cloud",
-      skills: [
-        { name: "AWS/Azure(Basics)", level: 55 },
-      ]
-    },
+    title: "Data Analysis Tools",
+    skills: [
+      { name: "Excel", level: 90 },
+      { name: "Power BI", level: 85 },
+      { name: "SQL", level: 80 },
+      { name: "Python", level: 75 }
+    ]
+  },
+  {
+    title: "Data Analysis",
+    skills: [
+      { name: "Pandas", level: 85 },
+      { name: "NumPy", level: 75 },
+      { name: "Statistics", level: 70 },
+      { name: "Data Cleaning", level: 80 },
+      { name: "Data Visualization", level: 80 }
+    ]
+  },
+  {
+    title: "Tools & Version Control",
+    skills: [
+      { name: "Git", level: 65 }
+    ]
+  },
   ]
 };
 // Brand New Leadership Data
@@ -414,47 +400,46 @@ export const certificates = {
   viewAllUrl: "https://drive.google.com/drive/folders/1VkPaCiBV37bPf4s_8mJg6mYeql_Km7XL?usp=drive_link",
 };
 export const contentCreation = {
-  badge: "AI Expertise",
+  badge: "Analytics Expertise",
 
-  heading: "Areas of Expertise",
+heading: "Areas of Expertise",
 
-  description:
-    "I build intelligent AI solutions by combining Machine Learning, Computer Vision, Deep Learning and Generative AI to solve real-world challenges.",
+description:
+  "I transform raw data into meaningful insights through data analysis, visualization, reporting and business intelligence solutions using SQL, Python, Excel and Power BI.",
 
-  categories: [
-    {
-      title: "Machine Learning",
-      description:
-        "Designing predictive models using supervised and unsupervised learning techniques.",
-      stats: "Regression • Classification",
-      icon: "🤖",
-    },
+categories: [
+  {
+    title: "Data Analysis",
+    description:
+      "Analyzing structured and unstructured datasets to identify trends, patterns and actionable insights.",
+    stats: "SQL • Python",
+    icon: "📊",
+  },
 
-    {
-      title: "Computer Vision",
-      description:
-        "Building intelligent vision systems using OpenCV, CNNs and YOLO for real-time analysis.",
-      stats: "OpenCV • YOLOv8",
-      icon: "👁️",
-    },
+  {
+    title: "Business Intelligence",
+    description:
+      "Building interactive dashboards and KPI reports to support business decision-making.",
+    stats: "Power BI • Excel",
+    icon: "📈",
+  },
 
-    {
-      title: "Generative AI",
-      description:
-        "Developing AI applications using LLMs, LangChain, Prompt Engineering and Retrieval-Augmented Generation.",
-      stats: "LLMs • RAG",
-      icon: "🧠",
-    },
+  {
+    title: "Data Visualization",
+    description:
+      "Creating compelling visualizations and dashboards to communicate insights effectively.",
+    stats: "Power BI • Matplotlib",
+    icon: "📉",
+  },
 
-    {
-      title: "Data Science",
-      description:
-        "Performing data preprocessing, feature engineering and predictive analytics using Python.",
-      stats: "Python • Pandas",
-      icon: "📊",
-    },
-  ],
-};
+  {
+    title: "Predictive Analytics",
+    description:
+      "Applying statistical analysis and machine learning techniques to forecast outcomes and support data-driven strategies.",
+    stats: "Pandas • Scikit-learn",
+    icon: "🔍",
+  },
+],
 
 export const education = {
   degree:"B.Tech. Artificial Intelligence & Data Science",
