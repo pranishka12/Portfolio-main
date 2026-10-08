@@ -163,13 +163,13 @@ export const leadershipList = [
 export const internshipsList = [
   {
     organization: "Svasti Private Solutions, Madurai",
-    role: "AI & Machine Learning Intern",
+    role: "AI & Machine Learning Intern"",
     duration: "JAN 2026 – May 2026",
     skills: [
       "Machine Learning",
       "Computer Vision",
-      "YOLOv8",
-      "CNN",
+      "Data Analysis",
+      "Data Preprocessing",
       "Python",
       "NLP"
     ],
@@ -187,11 +187,12 @@ export const internshipsList = [
     role: "AI & Machine Learning Intern",
     duration: "July 2024",
     skills: [
-      "Regression",
+      "Data Analysis",
+      "Data Cleaning",
       "Feature Engineering",
       "Data Preprocessing",
       "Predictive Analytics"
-    ],
+],
     tech: [
       "Python",
       "Scikit-learn",
@@ -206,37 +207,37 @@ export const softSkillsList = [
   {
     name: "Problem Solving",
     icon: "🧠",
-    desc: "Developing AI solutions for real-world industrial and business problems."
+    desc: "Analyzing data and solving business problems through data-driven insights."
   },
 
   {
-    name: "Research",
-    icon: "🔬",
-    desc: "Exploring modern AI technologies and continuously learning emerging research."
+    name: "Analytical Thinking",
+    icon: "📊",
+    desc: "Identifying patterns, trends and actionable insights from complex datasets."
   },
 
   {
     name: "Team Collaboration",
     icon: "🤝",
-    desc: "Working effectively with multidisciplinary teams during internships and projects."
+    desc: "Working effectively with cross-functional teams to achieve business objectives."
   },
 
   {
     name: "Leadership",
     icon: "👑",
-    desc: "Leading technical teams and organizing events through JCI leadership roles."
+    desc: "Leading teams and coordinating events through JCI leadership roles."
   },
 
   {
     name: "Communication",
     icon: "💬",
-    desc: "Presenting AI ideas and explaining technical concepts in a clear manner."
+    desc: "Presenting data insights and analytical findings in a clear and understandable manner."
   },
 
   {
     name: "Continuous Learning",
     icon: "📚",
-    desc: "Actively learning Machine Learning, Generative AI and Computer Vision."
+    desc: "Continuously improving skills in Data Analytics, SQL, Power BI and business intelligence."
   }
 ];
 
@@ -361,6 +362,11 @@ export const projects = [
 export const certificates = {
   featured: [
     {
+      name: "Certified Data analyst",
+  issuer: "Simplilearn",
+  icon: "🏅",
+    },
+    {
       name: "Smart mirror - Glow Guide",
       issuer: "Journal of International Journal of Engineering Research in Computer Science and Engineering.",
       icon:"📄",
@@ -452,10 +458,10 @@ export const education = {
 
 export const footerContent = {
   taglines:[
-    "Artificial Intelligence",
-    "Machine Learning",
-    "Computer Vision",
-    "Generative AI"
+    "Data Analytics",
+    "Business Intelligence",
+    "SQL",
+    "Power BI"
     ],
     
     credential:"B.E AI & Data Science | CGPA 8.52",
